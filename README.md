@@ -5,7 +5,7 @@ _DevOps senior backend software engineer_ <br>
 [Email](mailto:sebastien.font@protonmail.com) / [LinkedIn](https://www.linkedin.com/in/sebfnt) / [GitHub](https://github.com/sebfnt/) / [Twitter](https://twitter.com/sebfnt) / [DEV](https://dev.to/sebfnt)
 
 
-## Career Objective
+## 🚀 Career Objective
 
 <br>
 
