@@ -52,19 +52,18 @@ Multi-channel communication solution for B2B.
 **Java Software Engineer** @ [Sopra Steria](https://www.soprasteria.com/) _(Oct 2010 - Jul 2012)_ <br>
 Participation in various projects for the company's major accounts
 - Building software with JAVA/J2EE
- **_Technologies used:_**  JAVA, Spring, XML, HMTL
+- **_Technologies used:_**  JAVA, Spring, XML, HMTL
 <br>
 
 **IT Software Engineer** @ [NP6](https://www.chapsvision.fr/) _(Sep 2009 - Oct 2010)_ <br>
 Solution for email marketing.
 - Building software with DotNet.
- **_Technologies used:_**  C#, ASP.Net, Java
+- **_Technologies used:_**  C#, ASP.Net, Java
 <br>
 
 ## 🦜 Miscellaneous
 
 Diving instructor, Forest Explorer, Reading
-
 <br>
 
 ## 💬 Languages
