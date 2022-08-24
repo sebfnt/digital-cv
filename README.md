@@ -7,7 +7,8 @@ _DevOps senior backend software engineer_ <br>
 
 ## 🚀 Career Objective
 
-<br>
+Use my software development background to create and implement operating systems.
+Take on challenges as a team to build the software of tomorrow.
 
 ## 👨‍🎓 Education
 
