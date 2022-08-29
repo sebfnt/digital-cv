@@ -4,11 +4,18 @@ _DevOps senior backend software engineer_ <br>
 
 [Email](mailto:sebastien.font@protonmail.com) / [LinkedIn](https://www.linkedin.com/in/sebfnt) / [GitHub](https://github.com/sebfnt/) / [Twitter](https://twitter.com/sebfnt) / [DEV](https://dev.to/sebfnt)
 
+## 🌎 Location
+
+I am based in Guadeloupe UTC-4 since 2018.
+
+<br>
 
 ## 🚀 Career Objective
 
 Use my software development background to create and implement operating systems.<br>
 Take on challenges as a team to build the software of tomorrow.
+
+<br>
 
 ## 👨‍🎓 Education
 
