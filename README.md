@@ -6,14 +6,13 @@ _DevOps senior backend software engineer_ <br>
 
 ## 🌎 Location
 
-I am based in Guadeloupe UTC-4 since 2018.
+I am based in Noumea (New Caledonia), UTC+11 since februray 2023.
 
 <br>
 
 ## 🚀 Career Objective
 
-Use my software development background to create and implement operating systems.<br>
-Take on challenges as a team to build the software of tomorrow.
+I am committed to applying my expertise in software development and DevOps to craft innovative web and mobile applications that address real-world challenges and drive positive societal change.
 
 <br>
 
@@ -38,7 +37,19 @@ Take on challenges as a team to build the software of tomorrow.
 
 ## 👨‍💻 Work experience
 
-**Designer Lead Developer** @ [Exelcia IT](https://www.exelcia-it.com/fr/) _(Apr 2018 - Present)_ <br>
+**DevOps Software Architect and Senior Developer** @ [Tealforge](https://www.tealforge.com) _(Feb 2023 - Present)_ <br>
+Digital agency specializing in providing comprehensive support and guidance to startups and big companies.
+- Responsible for designing and developing web application and mobile application
+- Designing, building and implementing systems and softwares
+- Migrating old code into microservices
+- Managing continous integration with Gitlab CI/CD
+- Building infrastructure as code
+- Managing CIAM and IAM solution
+- Managing projects and team with Jira
+- **_Technologies used:_** Java, Spring-Boot, Angualar, Flutter, Terraform, Ansible, Gitlab, Keycloak, Kong, Jira
+<br>
+
+**Designer Lead Developer** @ [Exelcia IT](https://www.exelcia-it.com/fr/) _(Apr 2018 - Jan 2023)_ <br>
 Software editor for airlines and phone operators.
 - Designing, building and implementing systems and softwares
 - Migrating old code into microservices
