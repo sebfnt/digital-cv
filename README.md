@@ -1,6 +1,6 @@
 # Sébastien Font
 
-_DevOps senior backend software engineer_ <br>
+_DevOps Software Architect and Senior Developer_ <br>
 
 [Email](mailto:sebastien.font@protonmail.com) / [LinkedIn](https://www.linkedin.com/in/sebfnt) / [GitHub](https://github.com/sebfnt/) / [Twitter](https://twitter.com/sebfnt) / [DEV](https://dev.to/sebfnt)
 
